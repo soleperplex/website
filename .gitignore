@@ -1,1 +1,7 @@
-*.txt
+# Ignore Vim backup files (any file ending with ~)
+*~
+
+# Ignore the specific .unwanted_DS_Store file
+.unwanted_DS_Store
+
+
